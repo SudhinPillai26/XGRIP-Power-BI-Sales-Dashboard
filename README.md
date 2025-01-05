@@ -1,6 +1,10 @@
 ---
 
-# **XGRIP Sales and Profit Analytics Dashboard**  
+# **XGRIP Sales and Profit Analytics Dashboard** 
+
+### **Light and Dark Executive Dashboard**  
+![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)
+
 ---
 
 ## **Objective**  
