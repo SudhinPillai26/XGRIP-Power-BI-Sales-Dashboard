@@ -1,23 +1,6 @@
 ---
 
 # **XGRIP Sales and Profit Analytics Dashboard**  
-
-## **Dashboard Screenshots**  
-
-### **Light and Dark Executive Dashboard**  
-![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
-
-
-### **Sales Overview Dashboard**  
-![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
-
-### **Product Analysis Dashboard**  
-![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
-
-### **Map Analysis Dashboard**  
-![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
-
-
 ---
 
 ## **Objective**  
@@ -85,7 +68,7 @@ The goal of this project was to develop an interactive, user-friendly analytics 
 
 ### **Screenshots**  
 ### **Sales Overview Dashboard**  
-![Sales Overview Dashboard](https://github.com/user-attachments/assets/98c4f53b-639a-4077-968b-65d968bf01a3)  
+![Sales Overview Dashboard](https://github.com/user-attachments/assets/f962e29f-13a4-4f36-8b6e-cb1c56a28187)  
 
 ### **Product Analysis Dashboard**  
 ![Product Analysis Dashboard](https://github.com/user-attachments/assets/8acd35a3-6e96-468a-9dea-965c77982724)  
@@ -94,7 +77,7 @@ The goal of this project was to develop an interactive, user-friendly analytics 
 ![Map Analysis Dashboard](https://github.com/user-attachments/assets/d989bebe-734e-49c6-bd39-6eecc963e09b) 
 
 ### **Light and Dark Mode Example**  
-![Light and Dark Mode Example](https://github.com/user-attachments/assets/f962e29f-13a4-4f36-8b6e-cb1c56a28187)  
+![Light and Dark Mode Example](https://github.com/user-attachments/assets/98c4f53b-639a-4077-968b-65d968bf01a3)  
 
 
 ---
